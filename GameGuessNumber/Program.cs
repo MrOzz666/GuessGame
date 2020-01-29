@@ -60,6 +60,7 @@ namespace GameGuessNumber
                 {
                     tries++;
                     Console.WriteLine($"Ура, вы угадали! Компьютер загадал число {ComputerNum}!");
+                    break;
                 }
                 else
                 {
